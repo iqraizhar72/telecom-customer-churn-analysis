@@ -79,8 +79,11 @@ Key aspects analyzed:
 
 Various visualization techniques were used such as:
 
-- Count plots
+Count plots
 - Distribution plots
+- Line plots
+- Box plots
+- Pie charts
 - Heatmaps
 - Correlation analysis
 
