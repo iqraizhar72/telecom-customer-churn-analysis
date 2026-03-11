@@ -161,12 +161,15 @@ telecom-customer-churn-analysis
 │
 ├── data
 │   └── Telco-Customer-Churn-Data.csv
+|   └── Telco-Customer-Churn-Data(Cleaned).csv
 │
 ├── notebooks
 │   └── Customer_Churn_Analysis.ipynb
 │
 ├── images
-│   └── visualizations
+│   └── churn_distribution.png
+|   └── churn_distribution.png
+|   └── churn_distribution.png  
 │
 ├── requirements.txt
 └── README.md
