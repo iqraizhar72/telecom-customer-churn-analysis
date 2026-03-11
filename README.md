@@ -126,6 +126,31 @@ These insights can help telecom companies design **customer retention strategies
 
 ---
 
+## Key Visualizations
+
+### Churn Distribution
+
+This visualization shows the proportion of customers who churned compared to those who remained with the company.
+
+![Churn Distribution](images/churn_distribution.png)
+
+---
+
+### Contract Type vs Churn
+
+Customers with **month-to-month contracts** have significantly higher churn rates compared to yearly contracts.
+
+![Contract vs Churn](images/contract_vs_churn.png)
+
+---
+
+### Correlation Heatmap
+
+The heatmap highlights relationships between numerical variables such as **tenure, monthly charges, and total charges**.
+
+![Correlation Heatmap](images/correlation_heatmap.png)
+
+
 ## Project Structure
 
 ```
