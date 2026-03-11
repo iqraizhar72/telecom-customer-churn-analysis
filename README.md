@@ -168,8 +168,8 @@ telecom-customer-churn-analysis
 │
 ├── images
 │   └── churn_distribution.png
-|   └── churn_distribution.png
-|   └── churn_distribution.png  
+|   └── contract_vs_churn.png
+|   └── correlation_heatmap.png  
 │
 ├── requirements.txt
 └── README.md
