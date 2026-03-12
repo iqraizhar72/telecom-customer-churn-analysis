@@ -164,7 +164,7 @@ telecom-customer-churn-analysis
 |   └── Telco-Customer-Churn-Data(Cleaned).csv
 │
 ├── notebooks
-│   └── Customer_Churn_Analysis.ipynb
+│   └── customer_churn_analysis.ipynb
 │
 ├── images
 │   └── churn_distribution.png
